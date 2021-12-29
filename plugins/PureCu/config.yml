@@ -1,0 +1,82 @@
+---
+enable-multiworld-support: false
+custom-no-fac-message: '...'
+groups:
+  PLAYER:
+    default-nametag: §3<§9{faction}§3> §6[SemRank]Player §7{display_name}
+    default-chat: '§3<§9{faction}§3> §7{display_name}§d: §7{message}'
+  ADMIN:
+    default-chat: §3<§9{faction}§3> §c[༒AD꙰M꙰I꙰N꙰࿐] {display_name} §d:§f {message}
+    default-nametag: §3<§9{faction}§3> §c[༒AD꙰M꙰I꙰N꙰࿐] {display_name}
+    worlds: []
+  DONO:
+    default-chat: §3<§9{faction}§3> §e[DONO] {display_name} §d:§f {message}
+    default-nametag: §3<§9{faction}§3> §e[DONO] {display_name}
+    worlds: []
+  AJUDANTE:
+    default-chat: §3<§9{fac_rank}§3> §e[AJUDANTE] {display_name} §d:§f {message}
+    default-nametag: §3<§9{faction}§3> §e[AJUDANTE] {display_name}
+    worlds: []
+  DEV:
+    default-nametag: §3<§9{faction}§3> §2[☞╯De̸v̸࿐] {display_name}
+    default-chat: §2[☞╯De̸v̸࿐] {display_name} §d:§f {message}
+  VIP:
+    default-nametag: §3<§9{faction}§3> §a[VIP] {display_name}
+    default-chat: §3<§9{faction}§3> §a[VIP] {display_name} §d:§7 {message}
+  VIP+:
+    default-nametag: §3<§9{faction}§3> §a[VIP§c+§a]§e {display_name}
+    default-chat: §3<§9{faction}§3> §a[VIP§c+§a] {display_name} §d:§7 {message}
+  YOUTUBER:
+    default-chat: §3<§9{faction}§3> §6[YT] {display_name} §d:§7 {message}
+    default-nametag: §3<§9{faction}§3> §6[YOUTUBER] {display_name}
+  MINIYT:
+    default-chat: §3<§9{faction}§3> §6[MINIYT] {display_name} §d:§7 {message}
+    default-nametag: §3<§9{faction}§3> §6[MINIYT] {display_name}
+  KILLER:
+    default-chat: §3<§9{faction}§3> §5[KILLER] {display_name} §d:§7 {message}
+    default-nametag: §3<§9{faction}§3> §5[KILLER] {display_name}
+  BUILDER:
+    default-chat: §3<§9{faction}§3> §b[BUILDER] §7{display_name} §d:§7 {message}
+    default-nametag: §3<§9{faction}§3> §b[BUILDER] {display_name}
+  Evento:
+    default-chat: §9[Evento] {message}
+    default-nametag: §d[Evento] {display_name}
+  Guest:
+    default-chat: '{COLOR_YELLOW}{FORMAT_BOLD}[Guest]{COLOR_WHITE}{FORMAT_RESET} {display_name}
+      {COLOR_GRAY}> {message}'
+    default-nametag: '{COLOR_YELLOW}{FORMAT_BOLD}[Guest]{COLOR_WHITE}{FORMAT_RESET}
+      {display_name}'
+    worlds: []
+  Admin:
+    default-chat: '{COLOR_AQUA}{FORMAT_BOLD}[Admin]{COLOR_WHITE}{FORMAT_RESET} {display_name}
+      {COLOR_GRAY}> {message}'
+    default-nametag: '{COLOR_AQUA}{FORMAT_BOLD}[Admin]{COLOR_WHITE}{FORMAT_RESET}
+      {display_name}'
+    worlds: []
+  OWNER:
+    default-chat: '{COLOR_BLUE}{FORMAT_BOLD}[♚TⓗⓔKⓘⓝⓖ★彡]{COLOR_WHITE}{FORMAT_RESET}
+      {display_name} {COLOR_GRAY}> {message}'
+    default-nametag: '{COLOR_BLUE}{FORMAT_BOLD}[♚TⓗⓔKⓘⓝⓖ★彡]{COLOR_WHITE}{FORMAT_RESET}
+      {display_name}'
+    worlds: []
+  OP:
+    default-chat: '{COLOR_GREEN}{FORMAT_BOLD}[OP]{COLOR_WHITE}{FORMAT_RESET} {display_name}
+      {COLOR_GRAY}> {message}'
+    default-nametag: '{COLOR_BLUE}{FORMAT_BOLD}[OP]{COLOR_WHITE}{FORMAT_RESET} {display_name}'
+    worlds: []
+  JOGADOR:
+    default-nametag: §3[{faction}] §[JOGADOR] {display_name}
+    default-chat: '[JOGADOR] {display_name} > {message}'
+  ADMINISTRADOR:
+    default-nametag: '[ADMINISTRADOR] {display_name}'
+    default-chat: '[ADMINISTRADOR] {display_name} > {message}'
+  Owner:
+    default-chat: '{COLOR_BLUE}{FORMAT_BOLD}[Owner]{COLOR_WHITE}{FORMAT_RESET} {display_name}
+      {COLOR_GRAY}> {message}'
+    default-nametag: '{COLOR_BLUE}{FORMAT_BOLD}[Owner]{COLOR_WHITE}{FORMAT_RESET}
+      {display_name}'
+    worlds: []
+  LAVA:
+    default-nametag: '[LAVA] {display_name}'
+    default-chat: '[LAVA] {display_name} > {message}'
+...

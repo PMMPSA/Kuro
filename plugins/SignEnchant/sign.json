@@ -1,0 +1,227 @@
+{
+    "141:4:124:Shop": {
+        "X": 141,
+        "Y": 4,
+        "Z": 124,
+        "World": "Shop",
+        "Enchant": "0",
+        "money": 500000,
+        "Level": 10
+    },
+    "141:4:125:Shop": {
+        "X": 141,
+        "Y": 4,
+        "Z": 125,
+        "World": "Shop",
+        "Enchant": "1",
+        "money": 500000,
+        "Level": 10
+    },
+    "141:4:126:Shop": {
+        "X": 141,
+        "Y": 4,
+        "Z": 126,
+        "World": "Shop",
+        "Enchant": "2",
+        "money": 500000,
+        "Level": 10
+    },
+    "141:4:127:Shop": {
+        "X": 141,
+        "Y": 4,
+        "Z": 127,
+        "World": "Shop",
+        "Enchant": "3",
+        "money": 500000,
+        "Level": 10
+    },
+    "141:4:128:Shop": {
+        "X": 141,
+        "Y": 4,
+        "Z": 128,
+        "World": "Shop",
+        "Enchant": "4",
+        "money": 500000,
+        "Level": 10
+    },
+    "141:4:129:Shop": {
+        "X": 141,
+        "Y": 4,
+        "Z": 129,
+        "World": "Shop",
+        "Enchant": "5",
+        "money": 500000,
+        "Level": 10
+    },
+    "141:4:130:Shop": {
+        "X": 141,
+        "Y": 4,
+        "Z": 130,
+        "World": "Shop",
+        "Enchant": "6",
+        "money": 500000,
+        "Level": 10
+    },
+    "141:4:131:Shop": {
+        "X": 141,
+        "Y": 4,
+        "Z": 131,
+        "World": "Shop",
+        "Enchant": "7",
+        "money": 500000,
+        "Level": 10
+    },
+    "141:4:132:Shop": {
+        "X": 141,
+        "Y": 4,
+        "Z": 132,
+        "World": "Shop",
+        "Enchant": "8",
+        "money": 500000,
+        "Level": 10
+    },
+    "141:3:124:Shop": {
+        "X": 141,
+        "Y": 3,
+        "Z": 124,
+        "World": "Shop",
+        "Enchant": "9",
+        "money": 500000,
+        "Level": 10
+    },
+    "141:3:125:Shop": {
+        "X": 141,
+        "Y": 3,
+        "Z": 125,
+        "World": "Shop",
+        "Enchant": "10",
+        "money": 500000,
+        "Level": 10
+    },
+    "141:3:126:Shop": {
+        "X": 141,
+        "Y": 3,
+        "Z": 126,
+        "World": "Shop",
+        "Enchant": "11",
+        "money": 500000,
+        "Level": 10
+    },
+    "141:3:127:Shop": {
+        "X": 141,
+        "Y": 3,
+        "Z": 127,
+        "World": "Shop",
+        "Enchant": "12",
+        "money": 500000,
+        "Level": 10
+    },
+    "141:3:128:Shop": {
+        "X": 141,
+        "Y": 3,
+        "Z": 128,
+        "World": "Shop",
+        "Enchant": "13",
+        "money": 500000,
+        "Level": 10
+    },
+    "141:3:129:Shop": {
+        "X": 141,
+        "Y": 3,
+        "Z": 129,
+        "World": "Shop",
+        "Enchant": "14",
+        "money": 500000,
+        "Level": 10
+    },
+    "141:3:130:Shop": {
+        "X": 141,
+        "Y": 3,
+        "Z": 130,
+        "World": "Shop",
+        "Enchant": "15",
+        "money": 500000,
+        "Level": 10
+    },
+    "141:3:131:Shop": {
+        "X": 141,
+        "Y": 3,
+        "Z": 131,
+        "World": "Shop",
+        "Enchant": "16",
+        "money": 500000,
+        "Level": 10
+    },
+    "141:3:132:Shop": {
+        "X": 141,
+        "Y": 3,
+        "Z": 132,
+        "World": "Shop",
+        "Enchant": "17",
+        "money": 500000,
+        "Level": 10
+    },
+    "141:2:125:Shop": {
+        "X": 141,
+        "Y": 2,
+        "Z": 125,
+        "World": "Shop",
+        "Enchant": "18",
+        "money": 500000,
+        "Level": 10
+    },
+    "141:2:126:Shop": {
+        "X": 141,
+        "Y": 2,
+        "Z": 126,
+        "World": "Shop",
+        "Enchant": "19",
+        "money": 500000,
+        "Level": 10
+    },
+    "141:2:127:Shop": {
+        "X": 141,
+        "Y": 2,
+        "Z": 127,
+        "World": "Shop",
+        "Enchant": "20",
+        "money": 500000,
+        "Level": 10
+    },
+    "141:2:128:Shop": {
+        "X": 141,
+        "Y": 2,
+        "Z": 128,
+        "World": "Shop",
+        "Enchant": "21",
+        "money": 500000,
+        "Level": 10
+    },
+    "141:2:129:Shop": {
+        "X": 141,
+        "Y": 2,
+        "Z": 129,
+        "World": "Shop",
+        "Enchant": "22",
+        "money": 500000,
+        "Level": 10
+    },
+    "141:2:130:Shop": {
+        "X": 141,
+        "Y": 2,
+        "Z": 130,
+        "World": "Shop",
+        "Enchant": "23",
+        "money": 500000,
+        "Level": 10
+    },
+    "141:2:131:Shop": {
+        "X": 141,
+        "Y": 2,
+        "Z": 131,
+        "World": "Shop",
+        "Enchant": "24",
+        "money": 500000,
+        "Level": 10
+    }
+}

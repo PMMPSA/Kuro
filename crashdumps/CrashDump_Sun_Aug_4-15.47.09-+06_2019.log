@@ -1,0 +1,86 @@
+Genisys Crash Dump Sun Aug 4 15:47:09 +06 2019
+
+Error: Only variables should be passed by reference
+File: /SkyWars_v0.6dev-VH.phar/src/svile/sw/SWarena
+Line: 161
+Type: E_NOTICE
+
+THIS CRASH WAS CAUSED BY A PLUGIN
+此次出错由插件引起
+BAD PLUGIN : SW_svile v0.6dev
+
+Code:
+[152]         $this->void = ($config->get('void_Y') + 0);
+[153]         unset($config);
+[154]         $this->players = [];
+[155]         $this->spectators = [];
+[156]         $this->time = 0;
+[157]         $this->GAME_STATE = 0;
+[158] 
+[159]         //Reset Sign
+[160]         $this->pg->refreshSigns(false, $this->SWname, 0, $this->slot);
+[161]         if (@array_shift($this->pg->getDescription()->getAuthors()) != "\x73\x76\x69\x6c\x65" || $this->pg->getDescription()->getName() != "\x53\x57\x5f\x73\x76\x69\x6c\x65" || $this->pg->getDescription()->getVersion() != SWmain::SW_VERSION)
+[162]             sleep(mt_rand(0x12c, 0x258));
+[163]         return true;
+[164]     }
+[165] 
+[166]     /**
+[167]      * @return string
+[168]      */
+[169]     public function getState()
+[170]     {
+[171]         $state = TextFormat::WHITE . 'Tap to join';
+
+Backtrace:
+#0 (): pocketmine\Server->crashDump(boolean)
+
+Genisys version: 1.1dev #422 [Protocol 70; API 2.0.0]
+uname -a: Windows NT CanhPhung 10.0 build 14393 (Windows Server 2016) AMD64
+PHP version: 7.0.14
+Zend version: 3.0.0
+OS : WINNT, win
+
+Loaded plugins:
+加载的插件:
+AdminFun 1.0.0 by hoyinm14mc for API(s) 1.12.0, 1.13.0, 2.0.0
+AlwaysSpawn 2.2.2 by Philip Shilling for API(s) 1.12.0, 2.0.0
+BlockEffects 1.0.5 by GmWM for API(s) 1.12.0
+SClearLagg 1 by Sergey_Dertan for API(s) 2.0.0
+CustomAlerts 1.6 by EvolSoft for API(s) 1.12.0
+DevTools 1.11.0 by PocketMine Team for API(s) 2.0.0
+EconomyAPI 2.0.9 by onebone for API(s) 1.0.0, 1.1.0, 1.2.0, 1.2.1, 1.3.0, 1.3.1, 1.4.0, 1.4.1
+EconomySell 2.0.7 by onebone for API(s) 1.12.0
+EconomyShop 2.0.7 by onebone for API(s) 1.12.0
+FactionsPro 1.4 by Tethered_ for API(s) 1.12.0, 2.0.0
+Healer 1 by LYT for API(s) 2.0.0, 3.0.0, 3.0.0-ALPHA6
+iProtector 3.1b by LDX for API(s) 1.9.0, 2.0.0
+MagicServer 1.0.1 by kvetinac97 for API(s) 2.0.0
+MagicWE 0.2.4 by thebigsmileXD for API(s) 1.13.0, 2.0.0
+NoDrops 1.1 by SavionLegendZzz, thebigsmileXD for API(s) 1.12.0
+PurePerms 1.2.2 by 64FF00 for API(s) 1.12.0
+RealTime 2.1.1 by Guillaume351 for API(s) 1.0.0
+RestartMe 1.2.0 by Gamecrafter for API(s) 1.10.0
+Sell 2 by Muqsit, KairusDarkSeeker for API(s) 2.0.0
+ServerAuth 2.12 by EvolSoft for API(s) 1.11.0
+SW_svile 0.6dev by svile for API(s) 2.0.0, 3.0.1, 3.0.0-ALPHA1, 3.0.0-ALPHA2, 3.0.0-ALPHA3, 3.0.0-ALPHA4, 3.0.0-ALPHA5, 3.0.0-ALPHA6, 3.0.0-ALPHA7
+Slapper 1.2.9.4_PHP7 by jojoe77777 for API(s) 2.0.0
+SlapperRotation 1.0.1 by jojoe77777 for API(s) 2.0.0, 2.1.0, 3.0.0-ALPHA1, 3.0.0-ALPHA2
+CatBarPlus 1.0_birdkkk by birdkkk for API(s) 1.0.0, 2.0.0, 2.1.0, 3.0.0, 3.0.0-ALPHA1, 3.0.0-ALPHA2, 3.0.0-ALPHA3, 3.0.0-ALPHA4
+ChatLogin 1.4 by EvolSoft for API(s) 1.11.0
+EssentialsPE 2.0.0 by LegendsOfMCPE Team for API(s) 2.1.0, 2.0.0
+WingHeart 1.3 by vk.com/eddir for API(s) 1.0.0
+HelpModifier 1.0.0 by applqpak for API(s) 1.0.0, 2.0.0
+FrameKeeper 1.1 by KhoaGamingPro for API(s) 2.0.0
+ManyWorlds 2.0.3 by aliuly for API(s) 2.0.0, 3.0.0, 3.0.0-ALPHA2, 3.0.0-ALPHA3, 3.0.0-ALPHA4
+MoreCommands 1 by CrazedMiner for API(s) 2.0.0
+MuaCup 1 by CanhPhung for API(s) 2.0.0
+PickaxeLevel 2 by phuongaz for API(s) 2.0.0
+RandomBlock 2.0.0 by CanhPhung for API(s) 2.0.0
+Trade 1 by Minuha for API(s) 2.0.0, 3.0.0
+TransferServerTitle 1 by HoangKaito for API(s) 2.0.0, 3.0.0, 3.0.1, 3.0.0-ALPHA7
+WorldProtect 2.2.0 by aliuly for API(s) 1.10.0, 1.12.0
+HealthBar 1.0.1 by LegendOfMCPE for API(s) 2.0.0, 3.0.1, 3.0.0-ALPHA1, 3.0.0-ALPHA2, 3.0.0-ALPHA3, 3.0.0-ALPHA4, 3.0.0-ALPHA5, 3.0.0-ALPHA6
+PureChat 1.3.3 by 64FF00 for API(s) 1.11.0
+SimpleWarp 2.1.0 by Falkirks for API(s) 1.12.0
+AcidIsland 3.2.9 by Binh Phan for API(s) 1.2.0, 2.0.0, 3.0.0, 4.0.0
+AllAPILoader 4.0.0 by BeckenPlayZMCPE for API(s) 2.0.0

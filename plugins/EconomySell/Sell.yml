@@ -1,0 +1,62 @@
+---
+123:4:118:hub:
+  x: 123
+  "y": 4
+  z: 118
+  level: hub
+  cost: 22
+  item: 282
+  itemName: Mushroom Stew
+  meta: 0
+  amount: 12
+119:4:114:hub:
+  x: 119
+  "y": 4
+  z: 114
+  level: hub
+  cost: 400
+  item: 322
+  itemName: Golden Apple
+  meta: 0
+  amount: 12
+-208:56:259:world:
+  x: -208
+  "y": 56
+  z: 259
+  level: world
+  cost: 50
+  item: 4
+  itemName: Cobblestone
+  meta: 0
+  amount: 64
+-207:56:259:world:
+  x: -207
+  "y": 56
+  z: 259
+  level: world
+  cost: 50
+  item: 5
+  itemName: Oak Wood Planks
+  meta: 0
+  amount: 64
+-206:56:259:world:
+  x: -206
+  "y": 56
+  z: 259
+  level: world
+  cost: 150
+  item: 17
+  itemName: Oak Wood
+  meta: 0
+  amount: 64
+165:64:147:world:
+  x: 165
+  "y": 64
+  z: 147
+  level: world
+  cost: 2
+  item: 1
+  itemName: Stone
+  meta: 0
+  amount: 2
+...

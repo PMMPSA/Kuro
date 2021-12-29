@@ -1,0 +1,302 @@
+---
+124:4:118:hub:
+  x: 124
+  "y": 4
+  z: 118
+  level: hub
+  price: 1000
+  item: 322
+  itemName: Golden Apple
+  meta: 0
+  amount: 16
+119:4:116:hub:
+  x: 119
+  "y": 4
+  z: 116
+  level: hub
+  price: 0
+  item: 322
+  itemName: Golden Apple
+  meta: 0
+  amount: 16
+34:40:74:FLAT:
+  x: 34
+  "y": 40
+  z: 74
+  level: FLAT
+  price: 1000
+  item: 288
+  itemName: Feather
+  meta: 0
+  amount: 10
+-208:54:258:shop:
+  x: -208
+  "y": 54
+  z: 258
+  level: shop
+  price: 100
+  item: 4
+  itemName: Cobblestone
+  meta: 0
+  amount: 64
+-207:54:258:shop:
+  x: -207
+  "y": 54
+  z: 258
+  level: shop
+  price: 100
+  item: 5
+  itemName: Oak Wood Planks
+  meta: 0
+  amount: 64
+-206:54:258:shop:
+  x: -206
+  "y": 54
+  z: 258
+  level: shop
+  price: 300
+  item: 17
+  itemName: Oak Wood
+  meta: 0
+  amount: 64
+131:3:141:Shop:
+  x: 131
+  "y": 3
+  z: 141
+  level: Shop
+  price: 1000
+  item: 1
+  itemName: Stone
+  meta: 0
+  amount: 64
+130:3:141:Shop:
+  x: 130
+  "y": 3
+  z: 141
+  level: Shop
+  price: 1200
+  item: 155
+  itemName: Quartz Block
+  meta: 0
+  amount: 64
+129:3:141:Shop:
+  x: 129
+  "y": 3
+  z: 141
+  level: Shop
+  price: 800
+  item: 79
+  itemName: Ice
+  meta: 0
+  amount: 64
+128:3:141:Shop:
+  x: 128
+  "y": 3
+  z: 141
+  level: Shop
+  price: 1000
+  item: 174
+  itemName: Packed Ice
+  meta: 0
+  amount: 64
+127:3:141:Shop:
+  x: 127
+  "y": 3
+  z: 141
+  level: Shop
+  price: 10000000
+  item: 120
+  itemName: End Portal Frame
+  meta: 0
+  amount: 1
+126:3:141:Shop:
+  x: 126
+  "y": 3
+  z: 141
+  level: Shop
+  price: 1500
+  item: 405
+  itemName: Nether Brick
+  meta: 0
+  amount: 64
+125:3:141:Shop:
+  x: 125
+  "y": 3
+  z: 141
+  level: Shop
+  price: 10000
+  item: 90
+  itemName: Portal
+  meta: 0
+  amount: 2
+132:4:141:Shop:
+  x: 132
+  "y": 4
+  z: 141
+  level: Shop
+  price: 1200
+  item: 12
+  itemName: Sand
+  meta: 0
+  amount: 64
+131:4:141:Shop:
+  x: 131
+  "y": 4
+  z: 141
+  level: Shop
+  price: 1200
+  item: 13
+  itemName: Gravel
+  meta: 0
+  amount: 64
+130:4:141:Shop:
+  x: 130
+  "y": 4
+  z: 141
+  level: Shop
+  price: 1300
+  item: 337
+  itemName: Clay
+  meta: 0
+  amount: 64
+129:4:141:Shop:
+  x: 129
+  "y": 4
+  z: 141
+  level: Shop
+  price: 5000
+  item: 116
+  itemName: Enchanting Table
+  meta: 0
+  amount: 1
+128:4:141:Shop:
+  x: 128
+  "y": 4
+  z: 141
+  level: Shop
+  price: 3000
+  item: 47
+  itemName: Bookshelf
+  meta: 0
+  amount: 64
+127:4:141:Shop:
+  x: 127
+  "y": 4
+  z: 141
+  level: Shop
+  price: 5000
+  item: 243
+  itemName: Podzol
+  meta: 0
+  amount: 64
+126:4:141:Shop:
+  x: 126
+  "y": 4
+  z: 141
+  level: Shop
+  price: 10000
+  item: 110
+  itemName: Mycelium
+  meta: 0
+  amount: 64
+125:4:141:Shop:
+  x: 125
+  "y": 4
+  z: 141
+  level: Shop
+  price: 1300
+  item: 35
+  itemName: White Wool
+  meta: 0
+  amount: 64
+124:4:141:Shop:
+  x: 124
+  "y": 4
+  z: 141
+  level: Shop
+  price: 4000
+  item: 89
+  itemName: Glowstone
+  meta: 0
+  amount: 64
+132:3:141:Shop:
+  x: 132
+  "y": 3
+  z: 141
+  level: Shop
+  price: 100000
+  item: 52
+  itemName: Monster Spawner
+  meta: 0
+  amount: 64
+124:3:141:Shop:
+  x: 124
+  "y": 3
+  z: 141
+  level: Shop
+  price: 1000
+  item: 2
+  itemName: Grass
+  meta: 0
+  amount: 64
+92:70:101:SkyBlock:
+  x: 92
+  "y": 70
+  z: 101
+  level: SkyBlock
+  price: 1000
+  item: 278
+  itemName: Diamond Pickaxe
+  meta: 0
+  amount: 1
+91:70:101:SkyBlock:
+  x: 91
+  "y": 70
+  z: 101
+  level: SkyBlock
+  price: 500
+  item: 364
+  itemName: Steak
+  meta: 0
+  amount: 64
+90:70:101:SkyBlock:
+  x: 90
+  "y": 70
+  z: 101
+  level: SkyBlock
+  price: 200
+  item: 2
+  itemName: Grass
+  meta: 0
+  amount: 64
+89:70:101:SkyBlock:
+  x: 89
+  "y": 70
+  z: 101
+  level: SkyBlock
+  price: 300
+  item: 17
+  itemName: Oak Wood
+  meta: 0
+  amount: 64
+88:70:101:SkyBlock:
+  x: 88
+  "y": 70
+  z: 101
+  level: SkyBlock
+  price: 500
+  item: 155
+  itemName: Quartz Block
+  meta: 0
+  amount: 64
+110:4:124:Build:
+  x: 110
+  "y": 4
+  z: 124
+  level: Build
+  price: 100000
+  item: 278
+  itemName: Diamond Pickaxe
+  meta: 0
+  amount: 1
+...

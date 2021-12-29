@@ -1,0 +1,5 @@
+# Updated 07/15/19 13:40 by Genisys 1.1dev
+# victim name | ban date | banned by | banned until | reason
+
+cc|2019-07-15 13:39:37 +0000|NVdat|Forever|Banned by an operator.
+canh|2019-07-15 13:40:15 +0000|NVdat|Forever|Banned by an operator.

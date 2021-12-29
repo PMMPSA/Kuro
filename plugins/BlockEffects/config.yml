@@ -1,0 +1,24 @@
+---
+"8:0":
+- effect: 19
+  amplifier: 10
+  duration: 10
+  visible: true
+  particle: bubble
+- effect: 19
+  amplifier: 5
+  duration: 10
+  visible: true
+  particle: bubble
+"9:0":
+- effect: 19
+  amplifier: 10
+  duration: 10
+  visible: true
+  particle: bubble
+- effect: 19
+  amplifier: 5
+  duration: 10
+  visible: false
+  particle: bubble
+...

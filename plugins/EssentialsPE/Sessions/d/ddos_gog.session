@@ -1,0 +1,33 @@
+{
+    "isAFK": false,
+    "isGod": false,
+    "homes": {
+        "bed": [
+            204.69999694824,
+            67.000002746582,
+            141.0897064209,
+            "Sur",
+            0,
+            0
+        ],
+        "nha": [
+            202.52192687988,
+            67.000002746582,
+            143.81178283691,
+            "Sur",
+            0,
+            30
+        ]
+    },
+    "isMuted": false,
+    "mutedUntil": null,
+    "nick": "\u00a7l\u00a7o$",
+    "ptCommands": {
+        "276": "scl clear mob",
+        "280": "af void ddos"
+    },
+    "ptChatMacros": false,
+    "isPvPEnabled": true,
+    "isUnlimitedEnabled": false,
+    "isVanished": false
+}

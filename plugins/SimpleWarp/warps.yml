@@ -1,0 +1,110 @@
+---
+Towny:
+  x: 238.400600
+  "y": 63.500000
+  z: 208.809200
+  level: world
+  public: true
+sb:
+  x: 89.928490
+  "y": 70.500035
+  z: 87.887016
+  level: Skyblock
+  public: false
+shop:
+  x: 128.344055
+  "y": 3.000000
+  z: 128.564529
+  level: Shop
+  public: false
+Skyblock:
+  x: 91.430428
+  "y": 83.000003
+  z: 277.317596
+  level: SB
+  public: false
+pvp:
+  x: 277.544464
+  "y": 68.812503
+  z: 88.477493
+  level: SB
+  public: false
+1:
+  x: 121.863159
+  "y": 64.000003
+  z: -283.228699
+  level: world
+  public: false
+SB:
+  x: 90.538643
+  "y": 79.000003
+  z: 464.746552
+  level: Skyblock
+  public: false
+AFK:
+  x: 126.511185
+  "y": 64.500003
+  z: 128.456635
+  level: AFK
+  public: false
+Hub:
+  x: 179.286682
+  "y": 68.000003
+  z: 263.575195
+  level: KuroSpawn
+  public: false
+UHC:
+  x: 27.000000
+  "y": 67.000003
+  z: 59.000000
+  level: Island of Plenty
+  public: false
+SinhTon:
+  x: 46.781708
+  "y": 67.500003
+  z: 63.332981
+  level: Survival
+  public: false
+Survival:
+  x: 45.434345
+  "y": 67.000003
+  z: 20.447392
+  level: Survival
+  public: false
+SkyBlock:
+  x: 53.453239
+  "y": 84.000003
+  z: 198.543381
+  level: SkyBlock
+  public: false
+PvP:
+  x: 116.529732
+  "y": 4.000000
+  z: 175.439758
+  level: PvP
+  public: false
+MiniGame:
+  x: -274.462402
+  "y": 3.000000
+  z: -875.500366
+  level: MiniGame
+  public: false
+ACIDIS:
+  x: 90.705933
+  "y": 66.000003
+  z: 90.593613
+  level: ACIDIS
+  public: false
+Sho:
+  x: 32.460087
+  "y": 14.000000
+  z: 154.616394
+  level: ACIDIS
+  public: false
+Shop:
+  x: 32.460087
+  "y": 14.000000
+  z: 154.616394
+  level: ACIDIS
+  public: false
+...

@@ -1,0 +1,16 @@
+#MoreCommands v1.0 Config File
+#
+#/Spawn Command
+Spawn-Command-Enabled: true
+#/Spawn Command Message. Use \n for a new line
+Teleport-to-Spawn-Message: "----------------------------------------\n[KuroMCPE] đã dịch chuyển bạn về Spawn\n----------------------------------------"
+#
+#/Hub Command
+Hub-Command-Enabled: true
+#/Hub Command Message. Use \n for a new line
+Teleport-to-Hub-Message: "----------------------------------------\n[KuroMCPE] đã dịch chuyển bạn về Hub\n----------------------------------------"
+#
+#/Lobby Command
+Lobby-Command-Enabled: true
+#/Lobby Command Message. Use \n for a new line
+Teleport-to-Lobby-Message: "----------------------------------------\n[KuroMCPE] đã dịch chuyển bạn về Lobby\n----------------------------------------"

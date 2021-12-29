@@ -1,0 +1,112 @@
+---
+page_1:
+  message_1: §cHướng dẫn trang 1/10
+  message_2: §a•/afk Treo máy!
+  message_3: §a•/buyec Mua enchant giá 1000/1lv
+  message_4: §a•/warp Dùng để dịch chuyển tới các warp của máy chủ
+  message_5: §a•/listwarps Dùng để xem tất cả các warp của máy chủ
+  message_6: §a•/tpa Gửi yêu cầu dịch chuyển đến một ai đó
+  message_7: §a•/tpaccept Chấp nhận dịch chuyển
+  message_8: §a•/tpdeny Từ chối dịch chuyển
+  message_9: §a•/listec Coi danh sách enchant
+  message_10: §a•/fly Dùng để bay (áp dụng cho vip)
+page_2:
+  message_1: §cHướng dẫn trang 2/10
+  message_2: §a•/spawn Trở về Spawn
+  message_3: §a•/lobby Trở về Lobby
+  message_4: §a•/hub Trở về hub
+  message_5: §a•/topmoney Xem top tiền của máy chủ
+  message_6: §a•/pay Chuyển tiền cho ai đó
+  message_7: §a•/me thông báo cho server
+  message_8: §a•/tell nói chuyện riêng với ai đó
+  message_9: ninth message here
+  message_10: tenth message
+page_3:
+  message_1: §cHướng dẫn trang 3/10
+  message_2: second message here
+  message_3: third message here
+  message_4: fourth message here
+  message_5: fifth message here
+  message_6: sixth message here
+  message_7: seventh message here
+  message_8: eighth message here
+  message_9: ninth message here
+  message_10: tenth message
+page_4:
+  message_1: first message here
+  message_2: second message here
+  message_3: third message here
+  message_4: fourth message here
+  message_5: fifth message here
+  message_6: sixth message here
+  message_7: seventh message here
+  message_8: eighth message here
+  message_9: ninth message here
+  message_10: tenth message
+page_5:
+  message_1: first message here
+  message_2: second message here
+  message_3: third message here
+  message_4: fourth message here
+  message_5: fifth message here
+  message_6: sixth message here
+  message_7: seventh message here
+  message_8: eighth message here
+  message_9: ninth message here
+  message_10: tenth message
+page_6:
+  message_1: first message here
+  message_2: second message here
+  message_3: third message here
+  message_4: fourth message here
+  message_5: fifth message here
+  message_6: sixth message here
+  message_7: seventh message here
+  message_8: eighth message here
+  message_9: ninth message here
+  message_10: tenth message
+page_7:
+  message_1: first message here
+  message_2: second message here
+  message_3: third message here
+  message_4: fourth message here
+  message_5: fifth message here
+  message_6: sixth message here
+  message_7: seventh message here
+  message_8: eighth message here
+  message_9: ninth message here
+  message_10: tenth message
+page_8:
+  message_1: first message here
+  message_2: second message here
+  message_3: third message here
+  message_4: fourth message here
+  message_5: fifth message here
+  message_6: sixth message here
+  message_7: seventh message here
+  message_8: eighth message here
+  message_9: ninth message here
+  message_10: tenth message
+page_9:
+  message_1: first message here
+  message_2: second message here
+  message_3: third message here
+  message_4: fourth message here
+  message_5: fifth message here
+  message_6: sixth message here
+  message_7: seventh message here
+  message_8: eighth message here
+  message_9: ninth message here
+  message_10: tenth message
+page_10:
+  message_1: first message here
+  message_2: second message here
+  message_3: third message here
+  message_4: fourth message here
+  message_5: fifth message here
+  message_6: sixth message here
+  message_7: seventh message here
+  message_8: eighth message here
+  message_9: ninth message here
+  message_10: tenth message
+...

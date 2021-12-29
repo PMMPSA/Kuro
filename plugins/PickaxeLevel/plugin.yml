@@ -1,0 +1,9 @@
+name: PickaxeLevel
+main: PickaxeLevel\phuongaz\Main
+api: [2.0.0]
+author: phuongaz
+version: 2.0
+commands:
+ givecup:
+  description: Give minefore pickaxe to player
+  default: op

@@ -1,0 +1,8 @@
+﻿name: CatBarPlus
+version: 1.0_birdkkk
+main: BarPlus\HotBar
+author: birdkkk
+load: POSTWORLD
+api: [1.0.0, 2.0.0, 2.1.0, 3.0.0, 3.0.0-ALPHA1, 3.0.0-ALPHA2, 3.0.0-ALPHA3, 3.0.0-ALPHA4]
+website: www.facebook.com/mcpeplugin
+

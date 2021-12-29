@@ -1,0 +1,10 @@
+name: Trade
+version: 1.0
+main: Minuha\Trade\Main
+author: Minuha
+description: Plugin Trade 
+api: [2.0.0, 3.0.0]
+commands:
+ trade:
+  usage: /trade
+  default: true

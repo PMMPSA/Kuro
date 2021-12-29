@@ -1,0 +1,14 @@
+---
+Message1: §aPazar kuruldu!
+Message2: §cSatın almak istediğin eşyadan kalmamıştır.
+Message3: §cKendi pazarından eşya satın alamazsın.
+Message4: §cPazarına eşya eklemelisin stok bitmiş.
+Message5: §cPazarı kurabilmek için sandık gereklidir.
+Message6: §cEşya satın alabilmek için yeterli paran yok.
+Message7: §cSana ait olmayan sandığı açamazsın.
+Message8: §e%item §aeşyasından §e%amount §aadet satın alındı.
+Message9: §aTabelaya tekrar tıklayarak §e%item §aeşyasını §e%priceTL §afiyatına al.
+Message10: §cPazarı kaldıramazsın.
+Message11: §cSandığı kaldıramazsın.
+Message12: §aPazar kaldırıldı.
+...

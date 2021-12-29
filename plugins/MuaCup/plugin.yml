@@ -1,0 +1,9 @@
+name: MuaCup
+version: 1.0
+main: CanhPhung\Main
+author: CanhPhung
+api: 2.0.0
+
+commands:
+ muacup:
+  default: true

@@ -1,0 +1,5 @@
+---
+Clear-msg: '[§cHệ Thống§a] Đã xóa bỏ @count Nguyên nhân và vật phẩm gây lag'
+PreClear-msg: '[§cHệ Thống§a] Chuẩn bị ClearLag trong 1 phút nữa'
+Clear-time: 240
+...

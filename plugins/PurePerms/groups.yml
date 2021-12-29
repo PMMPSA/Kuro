@@ -1,0 +1,162 @@
+---
+Guest:
+  isDefault: true
+  inheritance: []
+  permissions:
+  - -essentials.kit
+  - -essentials.kit.other
+  - -pocketmine.command.me
+  - morecommands.command.hub
+  - morecommands.command.lobby
+  - morecommands.command.spawn
+  - pchat.colored.format
+  - pchat.colored.nametag
+  - pocketmine.command.list
+  - pperms.command.ppinfo
+  - simplewarp.warp
+  worlds: []
+Admin:
+  inheritance:
+  - Guest
+  permissions:
+  - essentials.gamemode
+  - pocketmine.broadcast
+  - pocketmine.command.gamemode
+  - pocketmine.command.give
+  - pocketmine.command.kick
+  - pocketmine.command.teleport
+  - pocketmine.command.time
+  worlds: []
+Owner:
+  inheritance:
+  - Guest
+  - Admin
+  permissions:
+  - essentials
+  - pocketmine.command
+  - pperms.command
+  worlds: []
+OP:
+  inheritance: []
+  permissions:
+  - '*'
+  worlds: []
+Moder:
+  inheritance: []
+  permissions:
+  - admin.painel
+  - advancedkits.Killer
+  - advancedkits.miniyt
+  - advancedkits.pvp
+  - advancedkits.vip
+  - advancedkits.vip+
+  - advancedkits.yt
+  - chat.cmd.usar
+  - legitop
+  - pchat.colored.format
+  - pchat.colored.nametag
+  - pocketmine.broadcast.admin
+  - pocketmine.command.ban
+  - pocketmine.command.ban-ip
+  - pocketmine.command.gamemode
+  - pocketmine.command.kick
+  - pocketmine.command.say
+  - pocketmine.command.teleport
+  - pocketmine.command.time
+  - punir.command
+  - report.ver
+  - spam.bypass
+  - vac.admin
+  - vac.fly
+  - vac.glide
+  - vac.speed
+  worlds: []
+VIP:
+  inheritance: []
+  permissions:
+  - advancedkits.kangaroo
+  - advancedkits.pvp
+  - advancedkits.vip
+  - essentials.fly.use
+  - leapers.use.feather
+  - morecommands.command.hub
+  - morecommands.command.lobby
+  - morecommands.command.spawn
+  - pchat.colored.format
+  - pchat.colored.nametag
+  - simplewarp.warp
+  - spam.bypass
+  worlds: []
+VIP+:
+  inheritance: []
+  permissions:
+  - advancedkits.c4
+  - advancedkits.kangaroo
+  - advancedkits.pvp
+  - advancedkits.vip
+  - advancedkits.vip+
+  - essentials.fly.use
+  - leapers.use.feather
+  - morecommands.command.hub
+  - morecommands.command.lobby
+  - morecommands.command.spawn
+  - pchat.colored.format
+  - pchat.colored.nametag
+  - pocketmine.tp
+  - sell
+  - sell.all
+  - sell.hand
+  - simplewarp.warp
+  - spam.bypass
+  worlds: []
+BUILDER:
+  inheritance: []
+  permissions:
+  - admin.painel
+  - advancedkits.miniyt
+  - advancedkits.pvp
+  - advancedkits.vip
+  - advancedkits.vip+
+  - advancedkits.yt
+  - chat.cmd.usar
+  - pchat.colored.format
+  - pchat.colored.nametag
+  - pocketmine.broadcast.admin
+  - pocketmine.command.gamemode
+  - pocketmine.command.kick
+  - pocketmine.command.list
+  - pocketmine.command.teleport
+  - pocketmine.command.time
+  - pocketmine.command.xp
+  - punir.command
+  - spam.bypass
+  worlds: []
+Police:
+  inheritance: []
+  permissions:
+  - admin.painel
+  - advancedkits.miniyt
+  - advancedkits.pvp
+  - advancedkits.vip
+  - advancedkits.vip+
+  - advancedkits.yt
+  - chat.cmd.usar
+  - legitop
+  - pchat.colored.format
+  - pchat.colored.nametag
+  - pocketmine.broadcast.admim
+  - pocketmine.command.kick
+  - pocketmine.command.list
+  - pocketmine.command.say
+  - pocketmine.command.teleport
+  - pocketmine.command.time
+  - pocketmine.command.xp
+  - punir.command
+  - spam.bypass
+  - vac.admin
+  - vac.fly
+  - vac.glide
+  - vac.speed
+  - wp.cmd.all
+  worlds: []
+...
